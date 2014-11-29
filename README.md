@@ -1,0 +1,4 @@
+ghstcoin
+========
+
+Test Absolute rubbish
